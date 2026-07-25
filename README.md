@@ -17,10 +17,10 @@ then markdown instructions), following the Agent Skills / Claude Skills conventi
 
 ## Import into Lovable
 Workspace owner/admin: **Settings → Skills → Add → Import from GitHub**, and paste the
-subdirectory URL for each skill (replace `<owner>`):
-- `https://github.com/<owner>/vibe-skills/tree/main/skills/author-rls-migration`
-- `https://github.com/<owner>/vibe-skills/tree/main/skills/architecture-audit`
-- `https://github.com/<owner>/vibe-skills/tree/main/skills/pre-launch-checklist`
+subdirectory URL for each skill (replace `HawkinsParnell`):
+- `https://github.com/HawkinsParnell/vibe-skills/tree/main/skills/author-rls-migration`
+- `https://github.com/HawkinsParnell/vibe-skills/tree/main/skills/architecture-audit`
+- `https://github.com/HawkinsParnell/vibe-skills/tree/main/skills/pre-launch-checklist`
 
 Re-import after edits to pick up changes. Skills are workspace-scoped; there is no
 project-level skill import.
