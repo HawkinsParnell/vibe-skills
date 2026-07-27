@@ -11,6 +11,7 @@ vibe-skills/
     ├── author-rls-migration/SKILL.md
     ├── architecture-audit/SKILL.md
     └── pre-launch-checklist/SKILL.md
+    └── document-feature/SKILL.md
 ```
 Each skill is a folder containing a `SKILL.md` (YAML frontmatter: `name`, `description`;
 then markdown instructions), following the Agent Skills / Claude Skills convention.
